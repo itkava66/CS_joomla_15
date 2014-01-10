@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template" version="1.0.0">
+	<name>clearsky</name>
+	<creationDate>16.01.2008</creationDate>
+	<author>Remco Verweij</author>
+	<copyright>GNU/GPL</copyright>
+	<authorEmail>verweijder@gmail.com</authorEmail>
+	<authorUrl>http://www.clearsky.nu</authorUrl>
+	<version>1.0</version>
+	<description>clearsky Version 1.0</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+	</files>
+	<images>
+		<filename>images/arrow.gif</filename>
+		<filename>images/arrow.png</filename>
+		<filename>images/indent1.png</filename>
+		<filename>images/indent2.png</filename>
+		<filename>images/indent3.png</filename>
+		<filename>images/indent4.png</filename>
+		<filename>images/menu_bg.jpg</filename>
+		<filename>images/spacer.gif</filename>
+		<filename>images/index_r1_c1.jpg</filename>
+		<filename>images/index_r2_c1.jpg</filename>
+		<filename>images/index_r5_c1.jpg</filename>
+		<filename>images/index_r1_c2.jpg</filename>
+		<filename>images/rating_star.png</filename>
+		<filename>images/rating_star_blank.png</filename>
+		<filename>images/nix.gif</filename>
+		<filename>images/navigation_03.gif</filename>
+		<filename>images/navigation_05.gif</filename>
+		<filename>images/navigation_07.gif</filename>
+		<filename>images/navigation_09.gif</filename>
+		<filename>images/navigation_11.gif</filename>
+		</images>
+	<css>
+		<filename>css/template_css.css</filename>
+	</css>
+</mosinstall>

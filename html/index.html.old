@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>ClearSky Learning</title>
+<style>
+body {
+	font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;	
+	background-color: #74A6BA;
+	color: #3A6379;
+	font-size: 12px;
+	margin: 15px;
+	padding: 0px;
+}
+a:link, a:visited, a:active
+{
+	color : #74A6BA;
+	font-weight : bold;
+	text-decoration: none;
+}
+a:hover
+{
+	color : #3A6379;
+	font-weight : bold;
+	text-decoration:underline;
+}
+
+</style>
+</head>
+
+<body bgcolor="#74A6BA">
+<div align="center">
+	<div align="left" style="background-image:url(images/background-top.gif); background-position:center top; background-repeat:no-repeat; width:958px; height:182px;">
+		<div style="position:relative; top:81px; left:15px;"><img src="images/logo.gif" alt="logo" /></div>
+	</div>
+	<div align="left" style="background-image:url(images/background-bottom.gif); background-position:center top; background-repeat:repeat-x; width:958px; height:433px;">
+		<div style="margin:20px; width:500px; float:left;">
+			<p style="font-size:14px;">Welkom op de site van <b>ClearSky</b>,<br />Wij vinden het erg leuk dat je de nieuwsgierigheid hebt genomen om te ontdekken wat ClearSky inhoud.</p>
+			<p><b>ClearSky <i>learning</i> is</b></p>
+			<p>Het creëren van helderheid voor jezelf en elkaar op Fysiek, Mentaal, Emotioneel en Spiritueel niveau, waardoor het mogelijk is om je wensen te verwezenlijken en je optimaal in je ‘vel’ voelen.</p>
+			<p>We werken samen met trainers die zijn gespecialiseerd op de deelgebieden fysiek, mentaal, emotioneel en spiritueel en ze geven jou het roer in handen over je eigen leven</p>
+			<p>Schrijf je in en wij houden je op de hoogte van de ontwikkelingen en onze trainingen.<br />
+			Als je al geïnteresseerd bent om te kijken hoe ClearSky learning een bijdrage kan leveren in jou eigen leven neem dan contact met ons op via 06 51610740.<br />
+			Voor company en team trainingen is het mogelijk om een afspraak te maken, dan komen we bij u langs.</p>
+			<p>Een verfrissende groet, <a href="mailto:remco@clearsky.nu">Remco Voorneveld</a>.</p>
+		</div>
+		<div style="position:relative; top:185px; left:110px; float:left;"><img src="images/trees.jpg" alt="trees" width="250" height="188" border="1" /></div>
+	</div>
+</div>
+</body>
+</html>

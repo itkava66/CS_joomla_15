@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="4.5.2">
+	<name>FacileForms</name>
+	<creationDate>September 2006</creationDate>
+	<author>Peter Koch</author>
+	<copyright>This mambo module is released under the GNU/GPL license</copyright>
+	<authorEmail>use_the_forum@facileforms.biz</authorEmail>
+	<authorUrl>www.facileforms.biz</authorUrl>
+	<version>1.4.7</version>
+	<description>
+		&lt;h2&gt;FacileForms module: Displays forms in module positions&lt;/h2&gt;
+		&lt;h3&gt;Requirements:&lt;/h3&gt;&lt;ul&gt;
+		&lt;li&gt;The FacileForms component must also be installed (same version)&lt;/li&gt;
+		&lt;li&gt;The module must be published&lt;/li&gt;
+		&lt;/ul&gt;
+	</description>
+	<files>
+		<filename module="mod_facileforms">mod_facileforms.php</filename>
+	</files>
+	<params name="ff_mod_params" description="FacileForms - Parameter Settings">
+		<param name="ff_mod_name" type="text" default="" label="Form Name" description="Enter the name of the form here" />
+		<param name="ff_mod_page" type="text" default="1" label="Page Number" description="Enter the starting page number here" />
+		<param name="ff_mod_frame" type="radio" default="0" label="Run in iframe" description="Run the form in an iframe">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="ff_mod_border" type="radio" default="0" label="Border" description="Select border mode">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="ff_mod_align" type="list" default="1" label="Horizontal align" description="Choose the horizontal align here">
+			<option value="0">Left</option>
+			<option value="1">Center</option>
+			<option value="2">Right</option>
+			<option value="3">Position</option>
+		</param>
+		<param name="ff_mod_left" type="text" default="0" label="Left position (pixels)" description="Left position in pixels (when Horizontal align=Position)" />
+		<param name="ff_mod_top" type="text" default="0" label="Top position (pixels)" description="Top position in pixels" />
+		<param name="ff_mod_parprv" type="text" default="" label="Private parameters" description="Parameters private to main form. Example: &amp;ff_param_foo=1&amp;ff_param_xy=blah" />
+		<param name="ff_mod_parpub" type="text" default="" label="Public parameters" description="Parameters inherited by subforms. Example: &amp;ff_param_foo=1&amp;ff_param_xy=blah" />
+		<param name="moduleclass_sfx" type="text" default="" label="CSS class suffix" description="Suffix to append to every CSS class name" />
+	</params>
+</mosinstall>

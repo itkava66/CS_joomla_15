@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- generator="FeedCreator 1.7.2" -->
+<rss version="0.91">
+	<channel>
+		<title>Joomla! powered Site</title>
+		<description>Joomla! site syndication</description>
+		<link>http://www.clearsky.nu</link>
+		<lastBuildDate>Wed, 05 Mar 2008 04:08:58 +0100</lastBuildDate>
+		<generator>FeedCreator 1.7.2</generator>
+		<image>
+			<url>http://www.clearsky.nu/images/M_images/joomla_rss.png</url>
+			<title>Powered by Joomla!</title>
+			<link>http://www.clearsky.nu</link>
+			<description>Joomla! site syndication</description>
+		</image>
+		<item>
+			<title>Welkom</title>
+			<link>http://www.clearsky.nu/index.php?option=com_content&amp;task=view&amp;id=4</link>
+			<description>Welkom bijClearSky is een methode met 9 logische stappen en zelfreflexie, waarmee je in je, priv&amp;eacute; en/ of zakelijke leven ten allen tijde zelf continue groei cre&amp;euml;ert. </description>
+			<category>Homepage - Homepage</category>
+			<pubDate>Wed, 05 Mar 2008 03:54:30 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

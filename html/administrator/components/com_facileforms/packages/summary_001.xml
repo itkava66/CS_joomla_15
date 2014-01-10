@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<FacileFormsPackage type="autoincrement" version="1.4.4">
+	<name>summary_001</name>
+	<title>SampleSummaryPage</title>
+	<version>0.0.1</version>
+	<creationDate>2005-11-22 09:49:58</creationDate>
+	<author>Peter Koch</author>
+	<authorEmail>peter.koch@facileforms.biz</authorEmail>
+	<authorUrl>http://www.facileforms.biz</authorUrl>
+	<description>Sample to show a summary page (before submitting)</description>
+	<copyright>This facile forms package is released under the GNU/GPL license</copyright>
+	<form id="639">
+		<package>PetersTestCases</package>
+		<name>summarypage</name>
+		<title>Summary Page</title>
+		<class1>content_outline</class1>
+		<width>200</width>
+		<height>100</height>
+		<pages>2</pages>
+		<emailntf>0</emailntf>
+		<dblog>0</dblog>
+		<element id="8938">
+			<name>user_input</name>
+			<title>User Input</title>
+			<type>Text</type>
+			<class2>inputbox</class2>
+			<posx>10</posx>
+			<posy>10</posy>
+			<width>6</width>
+			<height>6</height>
+			<script3cond>1</script3cond>
+			<script3id>1070</script3id>
+			<script3name>ff_valuenotempty</script3name>
+			<script3msg>Please enter a text</script3msg>
+		</element>
+		<element id="8939">
+			<name>ok_button</name>
+			<title>OK Button</title>
+			<type>Regular Button</type>
+			<class2>button</class2>
+			<posx>10</posx>
+			<posy>60</posy>
+			<data2>OK</data2>
+			<script2cond>2</script2cond>
+			<script2code>function ff_ok_button_action(element\x2C action)\r\n{\r\n   // validate current page\r\n   var error = ff_validation(ff_currentpage)\x3B\r\n   if (error != \x27\x27) {\r\n      alert(error)\x3B\r\n      ff_validationFocus()\x3B\r\n      return\x3B\r\n   } // if\r\n\r\n   // get user input\r\n   var user_input = ff_getElementByName(\x27user_input\x27).value\x3B\r\n\r\n   // write to static text element on page 2\r\n   var static_text = ff_getDivByName(\x27static_text\x27)\x3B\r\n   static_text.innerHTML = \x27You entered \x3Cb\x3E\x27+user_input+\x27\x3C/b\x3E on page 1\x27\x3B\r\n \r\n   // write into readonly text element on page 2\r\n   var text_input = ff_getElementByName(\x27text_input\x27)\x3B\r\n   text_input.value = user_input\x3B\r\n\r\n   // switch to next page\r\n   ff_nextpage()\x3B\r\n} // ff_ok_button_action</script2code>
+			<script2flag1>1</script2flag1>
+		</element>
+		<element id="8940">
+			<page>2</page>
+			<name>static_text</name>
+			<title>Static Text</title>
+			<posx>10</posx>
+			<posy>20</posy>
+			<width>0</width>
+			<height>0</height>
+		</element>
+		<element id="8941">
+			<page>2</page>
+			<name>text_input</name>
+			<title>Text Input (Read-Only)</title>
+			<type>Text</type>
+			<class2>inputbox</class2>
+			<posx>10</posx>
+			<posy>42</posy>
+			<width>6</width>
+			<height>6</height>
+			<flag2>2</flag2>
+		</element>
+	</form>
+</FacileFormsPackage>

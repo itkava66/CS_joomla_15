@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template" version="1.0.0">
+	<name>april06</name>
+	<creationDate>18.04.2006</creationDate>
+	<author>Alexander Hanke</author>
+	<copyright>GNU/GPL</copyright>
+	<authorEmail>alex@ah-68.de</authorEmail>
+	<authorUrl>http://www.ah-68.de</authorUrl>
+	<version>1.8</version>
+	<description>april06 Version 1.8</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>template_thumbnail.png</filename>
+	</files>
+	<images>
+		<filename>images/arrow.gif</filename>
+		<filename>images/arrow.png</filename>
+		<filename>images/indent1.png</filename>
+		<filename>images/indent2.png</filename>
+		<filename>images/indent3.png</filename>
+		<filename>images/indent4.png</filename>
+		<filename>images/menu_bg.jpg</filename>
+		<filename>images/spacer.gif</filename>
+		<filename>images/index_r1_c1.jpg</filename>
+		<filename>images/index_r2_c1.jpg</filename>
+		<filename>images/index_r5_c1.jpg</filename>
+		<filename>images/index_r1_c2.jpg</filename>
+		<filename>images/rating_star.png</filename>
+		<filename>images/rating_star_blank.png</filename>
+		</images>
+	<css>
+		<filename>css/template_css.css</filename>
+	</css>
+</mosinstall>

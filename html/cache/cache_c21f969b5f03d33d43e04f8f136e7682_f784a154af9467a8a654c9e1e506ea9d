@@ -1,0 +1,155 @@
+                       809868776<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/blogChannelModule">
+
+<channel>
+<title>InternetNews.com Developer News</title>
+<link>http://www.internetnews.com</link>
+<description>Real time developer news, programming trends, analysis, features and opinion for IT managers.</description>
+<language>en-us</language>
+<copyright>Copyright 1996-2006 Jupitermedia Corporation</copyright>
+<docs>http://backend.userland.com/rss</docs>
+<managingEditor>rss@jupitermedia.com</managingEditor>
+<webMaster>rss@jupitermedia.com</webMaster>
+
+<item>
+<title>Faster Performance, Fewer Machines For FreeBSD?</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3731386</link>
+<description>Latest FreeBSD version promises productivity gains and enhanced wireless support.</description>
+</item>
+
+<item>
+<title>Mozilla to Apple: Show Your Hand</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3731421</link>
+<description>Does a six percent market share permit Apple to behave in a manner that would get Microsoft hauled into court?
+</description>
+</item>
+
+<item>
+<title>Microsoft Previews &#39;Live&#39; Dev Tools</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3731166</link>
+<description>The platforms and tools exec presents a sneak peek of what to expect at its annual Web developers conference next week.
+</description>
+</item>
+
+<item>
+<title>Sun&#39;s Source Code Donation Met With Skepticism</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3731001</link>
+<description>Company says StorageTek code will spur better technology, but some experts aren&#39;t convinced.</description>
+</item>
+
+<item>
+<title>Google Apps Gets a New Team Player</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/software/article.php/3730871</link>
+<description>With Google Sites, individuals can quickly create collaborative Web sites.
+</description>
+</item>
+
+<item>
+<title>What&#39;s Apple&#39;s Enterprise iPhone Play?</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3730841</link>
+<description>Apple plans to make an enterprise-related announcement for the iPhone. 
+</description>
+</item>
+
+<item>
+<title>Fedora Update Ready For Distribution?</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3730806</link>
+<description>As the new leader takes the helm, Fedora 9 unveils FreeIPA and a plethora of new features.</description>
+</item>
+
+<item>
+<title>Sun Looks Ahead After $1B MySQL Deal</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3730426</link>
+<description>Plans to integrate open source databases immediately and ponders future acquisitions.</description>
+</item>
+
+<item>
+<title>Adobe Brings Online World to Desktops</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3730186</link>
+<description>With AIR and Flex, applications that were once confined to the browser can now run locally, without an Internet connection.
+</description>
+</item>
+
+<item>
+<title>Coming Soon to a Developer Near You: Silverlight 2.0</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3729906</link>
+<description>A senior Microsoft exec tells developers to get ready to start testing Silverlight 2.0.
+</description>
+</item>
+
+<item>
+<title>Updates To .NET Could Boost Client Performance</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3729316</link>
+<description>Visual Studio 2008 and .NET 3.5 are barely out the door but changes are already coming.
+</description>
+</item>
+
+<item>
+<title>AMD Joins Open Source With Framewave</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3728951</link>
+<description>Chipmaker starts its own open source effort to increase application performance. Will this be a counterweight to Intel?
+</description>
+</item>
+
+<item>
+<title>Microsoft Gives Students a Break With Free Software</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3728966</link>
+<description>New program distributes free developer software to science-oriented high school and college students worldwide.
+</description>
+</item>
+
+<item>
+<title>Microsoft &#39;Frees&#39; Office Formats</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3728596</link>
+<description>Microsoft places code and specs for its old Office binary file formats under its &quot;no lawsuit&quot; program; begins open source project. 
+</description>
+</item>
+
+<item>
+<title>Is it Time to Reverse-Engineer The Brain?</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3728591</link>
+<description>Government panel issues a grand set of challenges for the public to
+vote on.
+</description>
+</item>
+
+<item>
+<title>Red Hat Expands JBoss SOA, Community Efforts</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3728296</link>
+<description>New community and commercial efforts take flight as Red Hat takes aim at
+growing its enterprise middleware market share.
+</description>
+</item>
+
+<item>
+<title>Survey: LAMPs Like Hybrids</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3727536</link>
+<description>A new study of 35,000 open source users has some mixed results.
+</description>
+</item>
+
+<item>
+<title>Gates Talks up Custom Office Apps</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3727261</link>
+<description>In one of his final speeches as a full-time Microsoft employee, Gates pitches SharePoint and Office Live services at this year&#39;s Office developers confab.
+ 
+ 
+</description>
+</item>
+
+<item>
+<title>Tibco Releases ActiveMatrix 2.0</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3727081</link>
+<description>Latest SOA platform features an enterprise service bus and an Eclipse-based development environment.
+</description>
+</item>
+
+<item>
+<title>Open Source Turns 10</title>
+<link>http://redir.internet.com/rss/click/www.internetnews.com/dev-news/article.php/3727051</link>
+<description>Open Source Definition author reflects on the triumphs so far and the challenges of the decade ahead.</description>
+</item>
+
+</channel>
+</rss>

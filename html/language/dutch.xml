@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall version="1.0.0" type="language">
+	<name>Nederlands taalpakket</name>
+	<version>1.0.12</version>
+	<creationDate>2006-12-11</creationDate>
+	<author>DutchJoomla.org</author>
+	<authorEmail>info@dutchjoomla.org</authorEmail>
+	<files>
+		<filename>dutch.php</filename>
+	</files>
+</mosinstall>

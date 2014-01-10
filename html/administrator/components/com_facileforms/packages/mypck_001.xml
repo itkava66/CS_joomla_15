@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<FacileFormsPackage type="autoincrement" version="1.4.7">
+	<name>mypck_001</name>
+	<title>My First Package</title>
+	<version>0.0.1</version>
+	<creationDate>2008-05-18 09:01:23</creationDate>
+	<author>My Name</author>
+	<authorEmail>my.name@my.domain</authorEmail>
+	<authorUrl>http://www.my.domain</authorUrl>
+	<description>This is the first package that I created</description>
+	<copyright>This FacileForms package is released under the GNU/GPL license</copyright>
+	<form id="21">
+		<package>persoonlijkegroei</package>
+		<name>persoonlijkegroei</name>
+		<title>Persoonlijke Groei</title>
+		<description>Formulier \x22Persoonlijke Groei\x22</description>
+		<class1>content_outline</class1>
+		<width>400</width>
+		<height>500</height>
+		<script2cond>1</script2cond>
+		<script2id>69</script2id>
+		<script2name>ff_submittedhome</script2name>
+		<piece1cond>1</piece1cond>
+		<piece1id>39</piece1id>
+		<piece1name>ff_InitLib</piece1name>
+		<element id="285">
+			<name>Workshop</name>
+			<title>Workshops</title>
+			<posx>10</posx>
+			<posy>20</posy>
+			<width>0</width>
+			<height>0</height>
+			<data1>Workshop</data1>
+		</element>
+		<element id="286">
+			<name>personon</name>
+			<title>Personen</title>
+			<posx>10</posx>
+			<posy>50</posy>
+			<width>0</width>
+			<height>0</height>
+			<data1>Aantal personen</data1>
+		</element>
+		<element id="287">
+			<name>naam</name>
+			<title>Naam</title>
+			<posx>10</posx>
+			<posy>80</posy>
+			<width>0</width>
+			<height>0</height>
+			<data1>Naam</data1>
+		</element>
+		<element id="288">
+			<name>workshop</name>
+			<title>Workshop</title>
+			<type>Select List</type>
+			<class2>inputbox</class2>
+			<posx>185</posx>
+			<posy>15</posy>
+			<width>148</width>
+			<height>0</height>
+			<data1>1</data1>
+			<data2>1\x3BSeptember 2008\x3BSeptember 2008\r\n0\x3BOktober 2008\x3BOktober 2008\r\n0\x3BNovember 2008\x3BNovember 2008</data2>
+		</element>
+		<element id="289">
+			<name>personen</name>
+			<title>Personen</title>
+			<type>Text</type>
+			<class2>inputbox</class2>
+			<posx>185</posx>
+			<posy>45</posy>
+			<width>20</width>
+			<height>6</height>
+			<data1>1</data1>
+		</element>
+		<element id="290">
+			<name>naam</name>
+			<title>Naam</title>
+			<type>Text</type>
+			<class2>inputbox</class2>
+			<posx>185</posx>
+			<posy>75</posy>
+			<width>20</width>
+			<height>255</height>
+		</element>
+		<element id="292">
+			<name>verzenden</name>
+			<title>Verzenden</title>
+			<type>Regular Button</type>
+			<class2>button</class2>
+			<posx>185</posx>
+			<posy>110</posy>
+			<data2>Verzenden</data2>
+			<script2cond>1</script2cond>
+			<script2id>74</script2id>
+			<script2name>ff_validate_submit</script2name>
+			<script2flag1>1</script2flag1>
+		</element>
+	</form>
+</FacileFormsPackage>

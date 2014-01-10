@@ -1,0 +1,50 @@
+                     -1010985990<?xml version="1.0" encoding="iso-8859-1"?>
+      <rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns="http://my.netscape.com/rdf/simple/0.9/">
+
+        <channel>
+          <title>Linux Today</title>
+          <link>http://linuxtoday.com</link>
+          <description>Linux Today News Service</description>
+        </channel>
+
+		<image>
+			<title>Linux Today</title>
+			<url>http://linuxtoday.com/pics/ltnet.png</url>
+			<link>http://linuxtoday.com</link>
+		</image>
+
+        <item>
+          <title>My Thoughts on Slackware 12.0</title>
+          <link>http://linuxtoday.com/news_story.php3?ltsn=2008-03-05-014-26-RV-SL</link>
+        </item>
+
+        <item>
+          <title>Latest Slax Release Needs More Time in the Oven</title>
+          <link>http://linuxtoday.com/news_story.php3?ltsn=2008-03-05-012-26-RV-SL-SW</link>
+        </item>
+
+        <item>
+          <title>NVIDIA Quadro FX1700 512MB</title>
+          <link>http://linuxtoday.com/news_story.php3?ltsn=2008-03-05-011-26-RV-HW</link>
+        </item>
+
+        <item>
+          <title>Linux Server Administration</title>
+          <link>http://linuxtoday.com/news_story.php3?ltsn=2008-03-05-011-26-NW-HL-SV</link>
+        </item>
+
+        <item>
+          <title>Manage a Linux RAID 10 Storage Server</title>
+          <link>http://linuxtoday.com/news_story.php3?ltsn=2008-03-05-012-26-OS-HL-SV</link>
+        </item>
+
+
+<textinput>
+<title>Search</title>
+<description>Search Linux Today:</description>
+<name>query</name>
+<link>http://linuxtoday.com/search.php3</link>
+</textinput>
+</rdf:RDF>
