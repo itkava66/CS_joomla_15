@@ -95,7 +95,7 @@ function unregisterGlobals () {
 }
 
 /**
- * Emulates register globals = on
+ * Emulates register globals = off
  */
 function registerGlobals() {
 	checkInputArray( $_FILES, true );
